@@ -1,16 +1,33 @@
-## Hi there 👋
+# Привет, я Наталья👋
 
-<!--
-**NataliaPankova-QA/NataliaPankova-QA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Engineer с 3-летним опытом ручного и автоматизированного тестирования.  
+Люблю находить баги раньше пользователей и делать продукты качественнее.
 
-Here are some ideas to get you started:
+🛠 Технологии и инструменты
+- **Автоматизация:** Python (pytest, requests, Selenium), TypeScript (Playwright)
+- **API:** Postman, Swagger, Insomnia
+- **Базы данных:** PostgreSQL, MySQL (SQL запросы средней сложности)
+- **Баг-трекинг:** Jira, TestRail, OpenProject, Confluence
+- **Логи и мониторинг:** Kibana, Grafana, Charles Proxy
+- **Брокеры сообщений:** Kafka, RabbitMQ
+- **Мобильное тестирование:** Android Studio, Xcode, adb, реальные устройства
+- **CI/CD & Git:** GitHub, GitLab
+- **ОС:** Windows, macOS, Linux (базовый уровень), VirtualBox, Docker (базовый)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Проекты на GitHub
+Скоро здесь появятся ссылки на мои автотесты.
+
+📊 Ключевые достижения
+- Внедрила ревью требований → снижение багов на 30%, ускорение разработки на 15%.
+- Разработала процесс онбординга QA → сокращение входа в проект с 1 месяца до 2 недель.
+- Написала автотесты на Python/TypeScript → сократила время регресса вдвое.
+- Нашла и задокументировала 250+ дефектов, 15 критических (авторизация, синхронизация).
+
+📫 Контакты
+- Telegram: [@Tasha163163](https://t.me/Tasha163163)
+- Email: i@nataljapankova.ru
+- Телефон: +7 927 006-20-99
+
+---
+
+*Открыта к сотрудничеству и интересным проектам!*
